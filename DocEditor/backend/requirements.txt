@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-SocketIO
+PyMongo
+Werkzeug
+python-dotenv
+Flask-Testing
+flask-cors
+psycopg2-binary
